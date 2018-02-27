@@ -1,3 +1,3 @@
 # The Last of Us Story
 
-Chapter 1 version 1.1
+Chapter 1 Summer - version 1.2 
