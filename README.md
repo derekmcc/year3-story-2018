@@ -1,3 +1,3 @@
 # The Last of Us Story
 
-Chapter 1.0
+Chapter 1 version 1.1
