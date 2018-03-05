@@ -7,9 +7,9 @@
 
 [Chapter 3 Winter - version 3.0](Chapter03.html)
 
-[Chapter 3 Winter - version 1.0](Chapter03.html)
+[Chapter 3 Winter - version 1.2](Chapter03.html)
 
-##GitHub Pages
+## GitHub Pages
 [GitHub Pages link](https://derekmcc.github.io/year3-story-2018/)
 
 
