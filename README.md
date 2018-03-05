@@ -10,7 +10,7 @@ The Last of Us is a third-person action-adventure game, set in a post-apocalypti
 
 [Chapter 3 Winter](Chapter03.html)
 
-[Chapter 4 Spring](Chapter04.html)
+[Chapter 4 Spring - Alternative Ending](Chapter04.html)
 
 ## GitHub Pages
 [GitHub Pages link](https://derekmcc.github.io/year3-story-2018/)
